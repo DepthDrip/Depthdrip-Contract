@@ -1,0 +1,5 @@
+target/
+**/*.wasm
+**/*.wasm.d
+.idea/
+Cargo.lock
